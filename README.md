@@ -23,15 +23,24 @@
 </p>
     </li>
   </ul>
+  <p>
+    <p align="center">
+      <img align="center" width="100px" alt="ceruledge pixel art" src="https://preview.redd.it/i-made-ceruledge-an-animated-gen-5-pokemon-sprite-v0-luz7ee3fvxr91.gif?width=500&auto=webp&s=2531ad4368944a01e0a520d658e18eff4ce10906" />
+      <img align="center" width="100px" alt="gengar pixel art" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" />
+      <img align="center" width="70px" alt="link pixel art" src="https://64.media.tumblr.com/57c835432773620c767efa69f5d31765/tumblr_mgqnlg3Eht1qmxcsxo1_500.gif" />
+      <img align="center" width="100px" alt="gohan pixel art" scr="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0dXRydGtiMHJmcXJkb2NkMjI1c2Zkdm5hcnpuemYxNDBtcjYycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13pBoHozK8UYGA/giphy.gif" />
+
+  
+      
+      
+  </p>
+
+    
   </blockquote>
     <p>
       <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
-      <a href="discord.gg/marcosvini#3608"><img align="center" width="50px" src="https://skillicons.dev/icons?i=discord" /></a>
+      <a href="discord.com/marcosvini#3608"><img align="center" width="50px" src="https://skillicons.dev/icons?i=discord" /></a>
       </p>
-    
-  <p >
-    <img alt="dinossauro do google" src="https://raw.githubusercontent.com/saadeghi/saadeghi/refs/heads/master/dino.gif">
-  </p>
 
   
 </body>
