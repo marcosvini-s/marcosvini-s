@@ -23,19 +23,22 @@
 </p>
     </li>
   </ul>
-    <p align="center">
-      <img align="center" width="100px" alt="ceruledge pixel art" src="https://preview.redd.it/i-made-ceruledge-an-animated-gen-5-pokemon-sprite-v0-luz7ee3fvxr91.gif?width=500&auto=webp&s=2531ad4368944a01e0a520d658e18eff4ce10906" />
-      <img align="center" width="100px" alt="gengar pixel art" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" />
-      <img align="center" width="70px" alt="link pixel art" src="https://64.media.tumblr.com/57c835432773620c767efa69f5d31765/tumblr_mgqnlg3Eht1qmxcsxo1_500.gif" />
-      <img align="bottom" width="230px" alt="gohan pixel art" src="https://media.tenor.com/DcCtcHvqoMUAAAAj/gohan.gif"/>  
-  </p>
-
-    
-  </blockquote>
-    <p>
+    <p float="right">
       <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
       <a href="discord.com/marcosvini#3608"><img align="center" width="50px" src="https://skillicons.dev/icons?i=discord" /></a>
       </p>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosvini-s&show_icons=true&theme=github_dark)
+
+  <div style="display: flex;">
+      <img float="left" width="100px" alt="ceruledge pixel art" src="https://preview.redd.it/i-made-ceruledge-an-animated-gen-5-pokemon-sprite-v0-luz7ee3fvxr91.gif?width=500&auto=webp&s=2531ad4368944a01e0a520d658e18eff4ce10906" />
+      <img float="left" width="100px" alt="gengar pixel art" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" />
+      <img float="left" width="70px" alt="link pixel art" src="https://64.media.tumblr.com/57c835432773620c767efa69f5d31765/tumblr_mgqnlg3Eht1qmxcsxo1_500.gif" />
+      <img align="bottom" float="center" width="270px" alt="gohan pixel art" src="https://media.tenor.com/DcCtcHvqoMUAAAAj/gohan.gif"/>  
+  </div>
+  </blockquote>
+
+
 
   
 </body>
