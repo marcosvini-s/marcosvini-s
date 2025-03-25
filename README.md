@@ -1,24 +1,29 @@
-<h1 align="center">👋 Hello! Welcome to my Github profile.</h1>
-<h2 align="center">My name is Marcos "marcosvini-s" Sampaio</h2>
-<blockquote><i>Full Stack Developer from Brazil</i> </blockquote>
-<ul align="center">
+<h1 align="center">$${\color{red}👋 Hello! \space \color{lightblue}Welcome \space to \space my \space \color{orange}Github profile.}$$</h1>
+<h2 align="center">$${\color{lightblue}My \space name \space is \space \color{red}Marcos \space\color{red}Sampaio \space\color{orange}"marcosvini-s"\space }$$</h2>
+<p align="center"><i>Full Stack Developer from $$\color{green}Brazil$$</i></p>
+<blockquote>
+<ul>
   <li>
-    <p>📫 How to reach me: marcos.sampaiopeixoto@hotmail.com <a href="mailto:marcos.sampaiopeixoto@hotmail.com">Send Email</p>
+    <p>📫 How to reach me: <a href="mailto:marcos.sampaiopeixoto@hotmail.com">marcos.sampaiopeixoto@hotmail.com</p>
   </li>
   <li>
     <p>My Languagens: 
-            <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
-            <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
-            <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+            <img align="center" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+            <img align="center" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+            <img align="center" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
+            <img align="center" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+            <img align="center" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     </p>
   </li>
   <li>
-    <p>- 🌱 I’m currently learning <b>JavaScript,
-            <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          TypeScript,PHP</b> </p>
+    <p>- 🌱 I’m currently learning
+            <img align="center" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+            <img align="center" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+            <img align="center" width="32px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
   </li>
 </ul>
-
+</blockquote>
   
   
   <p >
