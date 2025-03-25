@@ -27,8 +27,11 @@
       <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
       <a href="discord.com/marcosvini#3608"><img align="center" width="50px" src="https://skillicons.dev/icons?i=discord" /></a>
       </p>
-    
+    <div align="center">
+      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosvini-s&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvini-s&layout=compact&theme=github_dark)
+    </div>
 
   <div style="display: flex;">
       <img float="left" width="100px" alt="ceruledge pixel art" src="https://preview.redd.it/i-made-ceruledge-an-animated-gen-5-pokemon-sprite-v0-luz7ee3fvxr91.gif?width=500&auto=webp&s=2531ad4368944a01e0a520d658e18eff4ce10906" />
