@@ -32,7 +32,7 @@
   </blockquote>
     <p>
       <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
-      <a href="https://discord.gg/marcosvini"><img align="center" width="50px" src="https://skillicons.dev/icons?i=discord" /></a>
+      <a href="discordapp.com/users/366695010701148170"><img align="center" width="50px" src="https://skillicons.dev/icons?i=discord" /></a>
       </p>
     
   <p >
