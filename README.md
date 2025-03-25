@@ -31,7 +31,9 @@
   </ul>
   </blockquote>
     <p>
-      <a href="https://www.instagram.com/marcosvini_s/"><img width="32px" src=""</a>
+      <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
+      <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
+      
       </p>
     
   <p >
