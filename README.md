@@ -24,7 +24,7 @@
     </li>
     <li>
       <p>:computer: Operational System: 
-      <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+      <img align="center" width="50px" src="https://skillicons.dev/icons?i=windows" /></a>
       <img align="center" width="50px" src="https://skillicons.dev/icons?i=apple" /></a>
 </p>
     </li>
@@ -32,8 +32,7 @@
   </blockquote>
     <p>
       <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
-      <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
-      
+      <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=discord" /></a>
       </p>
     
   <p >
