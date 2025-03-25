@@ -9,18 +9,12 @@
     </li>
     <li>
       <p>:file_folder:My Languagens:</p>
-              <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
-              <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-              <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
-              <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-              <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-      </p>
+              <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,figma" />
+  </p>
     </li>
     <li>
       <p>:pencil: I’m currently learning:</p>
-              <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-              <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-              <img align="center" width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />    
+      <img src="https://skillicons.dev/icons?i=react,typescript,php" />
     </li>
     <li>
       <p>:computer: Operational System: 
