@@ -1,6 +1,10 @@
-## Hi there 👋
+<h1 align="center">👋 Hello! Welcome to my Github profile.</h1>
+<h2 align="center">My name is Marcos "marcosvini-s" Sampaio! <br> 
+<strong>Full Stack Developer from Brazil</strong>
 
-<!--
+<img alt="dinossauro do google" href="https://raw.githubusercontent.com/saadeghi/saadeghi/refs/heads/master/dino.gif">
+  
+  <!--
 **marcosvini-s/marcosvini-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
