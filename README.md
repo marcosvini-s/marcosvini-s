@@ -23,7 +23,7 @@
 </p>
     </li>
   </ul>
-    <p float="right">
+    <p >
       <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
       <a href="discord.com/marcosvini#3608"><img align="center" width="50px" src="https://skillicons.dev/icons?i=discord" /></a>
       </p>
