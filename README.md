@@ -9,12 +9,12 @@
     </li>
     <li>
       <p>:file_folder:My Languagens:</p>
-              <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,figma" />
+              <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,figma,ts,react" />
   </p>
     </li>
     <li>
       <p>:pencil: I’m currently learning:</p>
-      <img src="https://skillicons.dev/icons?i=react,typescript,php" />
+      <img src="https://skillicons.dev/icons?i=php,mysql,kotlin,swift" />
     </li>
     <li>
       <p>:computer: Operational System: 
@@ -27,11 +27,6 @@
       <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
       <a href="discord.com/marcosvini#3608"><img align="center" width="50px" src="https://skillicons.dev/icons?i=discord" /></a>
       </p>
-    <div align="center">
-      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosvini-s&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvini-s&layout=compact&theme=github_dark)
-    </div>
 
   <div style="display: flex;">
       <img float="left" width="100px" alt="ceruledge pixel art" src="https://preview.redd.it/i-made-ceruledge-an-animated-gen-5-pokemon-sprite-v0-luz7ee3fvxr91.gif?width=500&auto=webp&s=2531ad4368944a01e0a520d658e18eff4ce10906" />
@@ -40,23 +35,3 @@
       <img align="bottom" float="center" width="270px" alt="gohan pixel art" src="https://media.tenor.com/DcCtcHvqoMUAAAAj/gohan.gif"/>  
   </div>
   </blockquote>
-
-
-
-  
-</body>
-
-  <!--
-**marcosvini-s/marcosvini-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
