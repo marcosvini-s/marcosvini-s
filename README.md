@@ -1,12 +1,22 @@
 <body>
-  <h1 align="center">$${\color{red}👋 Hello! \space \color{lightblue}Welcome \space to \space my \space \color{orange}Github profile.}$$</h1>
-  <h2 align="center">$${\color{lightblue}My \space name \space is \space \color{red}Marcos \space\color{red}Sampaio \space\color{orange}"marcosvini-s"\space }$$</h2>
-  <p align="center"><i>Full Stack Developer from $$\color{green}Brazil$$</i></p>
+  <h1 align="center">$${\color{orange}👋 Hello! \space Welcome \space to \space my \space \color{lightblue}Github profile.}$$</h1>
+  <h2 align="center">$${\color{orange}My \space name \space is \space Marcos \space Sampaio \space\color{lightblue}"marcosvini-s"\space}$$</h2>
+  <p align="center"><i>Front End Developer from $$\color{lightblue}Brazil$$</i></p>
   <blockquote>
+    <img src="https://img.shields.io/static/v1?label=Overview&message=marcosvini-s&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<p>
+  I am a <stroke>Software Engineering</stroke> student from Brazil, passionate about technology and constantly improving my skills </br> in web and mobile development. I am especially focused on Front-End development, building modern, responsive, </br> and user-friendly interfaces while expanding my knowledge toward becoming a Full Stack Developer.</p>
   <ul>
     <li>
-      <p>📫 How to reach me: <a href="mailto:marcos.sampaiopeixoto@hotmail.com">marcos.sampaiopeixoto@hotmail.com</p>
-    </li>
+    <p align="left">📫 How to reach me: </br>
+    <a href="mailto:marcos.sampaiopeixoto@hotmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+    <a href="https://www.linkedin.com/in/marcos-vinicius-de-abreu-sampaio-peixoto-3692952b5/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/marcosvini_s/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  </p>
+      </li>
     <li>
       <p>:file_folder:My Languagens:</p>
               <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,figma,ts,react" />
@@ -16,22 +26,10 @@
       <p>:pencil: I’m currently learning:</p>
       <img src="https://skillicons.dev/icons?i=php,mysql,kotlin,swift" />
     </li>
-    <li>
-      <p>:computer: Operational System: 
-      <img align="center" width="50px" src="https://skillicons.dev/icons?i=windows" /></a>
-      <img align="center" width="50px" src="https://skillicons.dev/icons?i=apple" /></a>
-</p>
-    </li>
   </ul>
-    <p >
-      <a href="https://www.instagram.com/marcosvini_s/"><img align="center" width="50px" src="https://skillicons.dev/icons?i=instagram" /></a>
-      <a href="discord.com/marcosvini#3608"><img align="center" width="50px" src="https://skillicons.dev/icons?i=discord" /></a>
-      </p>
-
-  <div style="display: flex;">
-      <img float="left" width="100px" alt="ceruledge pixel art" src="https://preview.redd.it/i-made-ceruledge-an-animated-gen-5-pokemon-sprite-v0-luz7ee3fvxr91.gif?width=500&auto=webp&s=2531ad4368944a01e0a520d658e18eff4ce10906" />
-      <img float="left" width="100px" alt="gengar pixel art" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" />
-      <img float="left" width="70px" alt="link pixel art" src="https://64.media.tumblr.com/57c835432773620c767efa69f5d31765/tumblr_mgqnlg3Eht1qmxcsxo1_500.gif" />
-      <img align="bottom" float="center" width="270px" alt="gohan pixel art" src="https://media.tenor.com/DcCtcHvqoMUAAAAj/gohan.gif"/>  
-  </div>
+    <p align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=marcosvini-s&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+49%25+55%25%2C+%23293d32ff+0%25%2C+%235151ddff+100%25%29%2C+url%28https%3A%2F%2Fimgur.com%2Fa%2F8835aGK%29&color=%23FFFFFFFF&hide=rank" />
+</p>
+    
   </blockquote>
+  
