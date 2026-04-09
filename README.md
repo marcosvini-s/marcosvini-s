@@ -19,7 +19,7 @@
       </li>
     <li>
       <p>:file_folder:My Languagens:</p>
-              <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,figma,ts,react" />
+              <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,figma,ts,react,java" />
   </p>
     </li>
     <li>
