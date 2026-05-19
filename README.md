@@ -28,7 +28,11 @@
     </li>
   </ul>
     <p align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=marcosvini-s&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF">
+  <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=marcosvini-s&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
 </p>
     
   </blockquote>
