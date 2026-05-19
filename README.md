@@ -28,7 +28,7 @@
     </li>
   </ul>
     <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=marcosvini-s&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+49%25+55%25%2C+%23293d32ff+0%25%2C+%235151ddff+100%25%29%2C+url%28https%3A%2F%2Fimgur.com%2Fa%2F8835aGK%29&color=%23FFFFFFFF&hide=rank" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=marcosvini-s&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF">
 </p>
     
   </blockquote>
